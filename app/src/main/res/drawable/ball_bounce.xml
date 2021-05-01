@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/ball_bounce_00" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_01" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_02" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_03" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_04" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_05" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_06" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_07" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_08" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_09" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_10" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_11" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_12" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_13" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_14" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_15" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_16" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_17" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_18" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_19" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_20" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_21" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_22" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_23" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_24" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_25" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_26" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_27" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_28" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_29" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_30" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_31" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_32" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_33" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_34" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_35" android:duration="50"></item>
+    <item android:drawable="@drawable/ball_bounce_36" android:duration="50"></item>
+    </animation-list>
