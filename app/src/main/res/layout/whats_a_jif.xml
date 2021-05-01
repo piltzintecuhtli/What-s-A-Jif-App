@@ -9,8 +9,8 @@
     <ImageView
         android:id="@+id/Bread"
         android:layout_width="0dp"
-        android:layout_height="450dp"
-        app:layout_constraintBottom_toBottomOf="@+id/textView4"
+        android:layout_height="390dp"
+        app:layout_constraintBottom_toTopOf="@+id/Character"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
